@@ -1,0 +1,16 @@
+Before opening solution
+
+The solution is made by VS2005.
+It contains 3 platforms libraries and sample codes.
+It shows error message if a proper platform SDK is not installed.
+In this case, you may refer to the following site to download platform SDK's.
+
+Windows XP platform SDK : 
+http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=6b6c21d2-2006-4afa-9702-529fa782d63b
+WINCE 5.0 platform SDK :
+http://www.microsoft.com/downloads/details.aspx?FamilyID=fa1a3d66-3f61-4ddc-9510-ae450e2318c3&DisplayLang=en
+Windows Mobile 6.0 platform SDK :
+http://www.microsoft.com/downloads/details.aspx?familyid=06111A3A-A651-4745-88EF-3D48091A390B&displaylang=en
+
+These refernces may not correct at the time.
+
